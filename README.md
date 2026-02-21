@@ -89,7 +89,8 @@ The backend processes commands and returns responses which are spoken/displayed 
 
 ## 📸 Screenshots
 
-(Add screenshots here)
+<img width="1920" height="1080" alt="Screenshot 2026-02-21 151426" src="https://github.com/user-attachments/assets/88bc36bc-b801-44e1-aef1-8fbf321fb9da" />
+
 
 ---
 
